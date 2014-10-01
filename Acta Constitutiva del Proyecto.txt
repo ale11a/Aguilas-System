@@ -1,0 +1,96 @@
+Acta Constitutiva del Proyecto
+
+Propósito O Justificación del proyecto
+El proyecto nace de la necesidad de cubrir el error humano en el departamento de recursos humanos, ya que dicho departamento maneja un volumen elevado del personal, esto es debido a que siendo una empresa de seguridad la contrataciones probabilísticamente a diarias inclusive por horas; dicho problema desencadena mucho error humano en cuanto al momento delegar tareas, formar y seleccionar ya que ofrecen un servicio de vigilancia y este es rotativo y va en incremento, es decir siempre se necesita más personal. Por tanto al momento de delegar tareas es muy frecuente que un hombre olvide a una persona u otra ocasionando una cadena de errores. Por otro lado, en la empresa Águilas Protección Integral cada vigilante debe reportar su asistencia a la central, y esta debe ser procesada para llevar un control, dicha asistencia es manual, y en ocasiones el papel se pierde.
+
+El sistema experto ofrece una gestión que se ocupara de seleccionar, emplear y delegar funciones a los vigilantes, como también una gestión de asistencia para el uso correcto de los vigilantes, haciendo de esta manera el error humano, uno de los menores problemas.
+
+Objetivos medibles del proyecto
+•	Seleccionar el personal más apto para cubrir una vigilancia en el sitio mas adecuado
+•	Generar funciones a los vigilantes a través sugerencias al experto
+•	Ofrecer información relevante del personal contratado
+•	Procesar las asistencia del personal involucrado (Centralista, Vigilante, Supervisor)
+•	Generar una variedad de reportes referentes a las actividades diarias (Datos del personal, Asistencia y Vigilancias)
+
+Criterios de éxitos asociados
+Para que el proyecto sea un éxito debe cumplir con:
+•	Gestión Senior: Las prácticas de gestión inadecuadas afectan el éxito de proyectos
+•	Clientes / Usuarios: La falta de involucramiento del usuario en cualquiera de las fases del ciclo de desarrollo de software, también tendrá un impacto negativo en el éxito del proyecto
+•	Requerimientos: Entender los requerimientos es un factor crítico para el desarrollo de un sistema exitoso. La falta total o parcial de comprensión del problema y su entorno, conduce a requerimientos incompletos y por lo tanto causa serios riesgos para el proyecto
+•	Estimación de Esfuerzo y Programación de Actividades: Una mala estimación de esfuerzo es frecuentemente uno de los mayores contribuyentes al fracaso de los proyectos de software
+•	Gestión de Proyecto: Un proyecto acéfalo, o con un jefe que no tiene la experiencia apropiada, corre un riesgo serio
+•	Desarrolladores: El impacto de los desarrolladores en el proceso de desarrollo de software es crítico en términos de la actividad que ellos desarrollan, y con quien interactúan. La falta de control de proyecto tiene como resultado que los desarrolladores trabajan horas extras sin recompensa, teniendo efectos negativos en sus vidas personales, y arriesgando el éxito del proyecto
+•	Proceso de Desarrollo de Software: La gestión de riesgo es solo una faceta del proceso de desarrollo de software que comienza junto con la definición y continúa a través de la planificación, ejecución y control, hasta la finalización y clausura del proyecto.
+Requerimientos de alto nivel:
+•	En vista de la perdida de información y de la inestabilidad del sistema manual la empresa Águilas Protección Integral está en la necesidad de adquirir un sistema experto que ayude de manera sistemática esta gestión, originaria en el departamento de recursos humanos.
+•	En orden de necesidades el sistema debe cumplir con lo establecido en los objetivos en la primera versión.
+•	El sistema debe tener fecha de culminación entre 31 días, hasta 42 días más tardar.
+•	El proyecto debe contar con 2 programadores, 1 diseñador grafico, 1 gerente de proyectos y 1 tester autorizado.
+•	Bajo ninguna circunstancia si el sistema se encuentra entre los días 25 y 42 se aceptan modificaciones al sistema.
+
+Descripción del Proyecto de Alto Nivel:
+El propósito principal de el proyecto Aguilas System, consiste en organizar toda la información de reportes, contratos, despidos y empresas dentro del sistema generando facilidad, flexibilidad y buen manejo de la información para el departamento de recursos humanos el cual es el encargado de gestionar todas estas tareas. Los limites están definidos a solo gestionar lo antes nombrado y a estar entre los 10 mejores sistemas de vigilancia a nivel nacional.
+Riesgos de Alto Nivel:
+•	Puede que el proyecto no se entregue a tiempo y genere perdidas a la empresa desarrolladora.
+•	Puede que el sistema no sea de fácil manejo para los usuarios y no se encuentren satisfechos con la usabilidad del sistema.
+•	Puede que los altos y bajos de luz afecten al uso del sistema y tengan que llevar de nuevo los registros manualmente.
+Agenda de Hitos:
+Los Entregables del proyecto están definidos de la siguiente forma:
+•	Para la semana 3 el sistema de simular las funciones principales del mismo y debe de estar aprobado por la empresa.
+•	Para la semana 4 el sistema debe de estar un 90% funcional como mínimo.
+•	Luego de la 4ta semana se ofrecen 2 semanas mas como máximo de tiempo para entregar el proyecto finalizado.
+Resumen de presupuesto
+Computadora:
+•	Dual core 2.6 ghz
+•	MotherboardAsrock H61M-VG6
+•	2Gb DDR3
+•	Disco 300Gb
+•	2 Case
+•	Windows 7
+•	Costo: 25.000 Bsf
+
+
+Página web:
+•	Diseño:                                            10.000 Bsf
+•	Funcionamiento  15.000Bsf
+•	Total de equipo y pagina:                   50.000 Bsf
+•	Mantenimiento mensual:
+•	Mantenimiento 1200 Bsf mensual 
+•	Hosting mensual                                54 Bsfmensual
+•	Total:                                               1254 Bsfmensual
+
+El presupuesto de material a usar para la elaboracion de una pagina web es de cincuenta mil bolívares fuerte donde también tendrá un mantenimiento que se hace mensualmente con un costo de 1254Bsf 
+___________________                            _____________________
+        Director de la empresa                              Desarrollador de la pagina
+
+Requerimiento de aprobación de proyecto
+
+Este proyecto es de un desarrollo de una pagina web donde será 100% funcional bajo los acuerdo que se llego con la empresa para que cumpla su necesidad dicha por ellos mismo las tales fueron:
+
+•	Que sea funcional
+•	Que tenga los parámetros que ellos necesitan 
+•	Que cumplan con el diseño de la empresa
+
+Donde para que el proyecto sea exitoso tiene que cumplir las condiciones antes estipuladas y nos dará aprobación el director de la empresa para comenzar dicho proyecto.
+          _______________________            _________________________
+           Director de la empresa                       Desarrollador de la empresa
+
+PM asignado con su grado de responsabilidad y autoridad
+
+Leonardo Hernández – Director de proyecto, Programador principal
+Ing. Willian Torrellas – Jefe del departamento de tecnología
+Ing. Marilin Silva – Asesora técnica y lógica, Programadora segundaria
+Ing. Shayanne Barreto – Diseñador Grafico
+Lic. Gisela Cordas – Gerente Institucional
+Lic. Douglas Carrascosa – Gerente General
+
+
+
+Nombre y nivel del Sponsor que aprueba el acta
+
+Yo, Jehiel Linarez, titular de la cedula de identidad, xxxxxx, en mi oficio de director asigno a la empresa CCMITS, C.A. como la encargada de desarrollar un sistema informático que de solución al problema que se encuentre en el levantamiento de información.
+
+Firma						Responsable CCMITS, C.A.
+
+__________________________		______________________________
+
